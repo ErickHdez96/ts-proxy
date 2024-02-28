@@ -1,0 +1,16 @@
+{
+  "name": "proxy",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20.11.22"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
